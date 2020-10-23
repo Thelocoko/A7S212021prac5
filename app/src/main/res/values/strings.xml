@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">A7S212021prac5</string>
+    <string name="Scroll">Scroll View</string>
+    <string name="pie">Pie de pantalla</string>
+    <string name="f">f</string>
+    <string name="btn">Presioname</string>
+    <string name="name">Ingresa tu nombre</string>
+</resources>
